@@ -1,3 +1,3 @@
 /**
- * Completed task 26 - Chỉnh lại đi em, chỗ này thêm cái này
+ * Completed task 26 - Chỉnh chỉnh chỉnh -> Hoàn thành rồi sếp
  */
